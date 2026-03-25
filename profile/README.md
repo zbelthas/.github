@@ -15,7 +15,8 @@ Zbelthas is a complete digital security platform with three integrated modules: 
 
 ## 📖 Explore our Vision
 Check out our comprehensive **[Whitepaper Suite](https://zbelthas.github.io/whitepaper/)** to understand our architecture, cryptographic foundations, and security layers.
-Download our whitepaper **[Click here](
+<a href="/download_pdf/public_whitepaper.pdf" download>📥 Download our complete whitepaper</a>
+
 > "Security is a partnership. We provide the strongest protection possible; you maintain the control."
 
 ---
@@ -25,7 +26,7 @@ Zbelthas is built by a small team committed to real security and privacy. If you
 
 *   **Star our repositories** to show your support.
 *   **Join our [Discussions](https://github.com/orgs/zbelthas/discussions/1)** to ask questions or suggest features.
-*   **Donate:** Visit [zbelthas.com](https://zbelthas.com) for more options and our Web3 portal.
+*   **Donate:** Visit [zbelthas.com](https://zbelthas.com/donate) for more options and our Web3 portal.
 
 ---
 *© 2026 Zbelthas Project. Zbelthas™ is a registered trademark.*
