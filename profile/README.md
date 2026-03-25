@@ -28,7 +28,7 @@ Zbelthas is built by a small team committed to real security and privacy. If you
 
 *   **Star our repositories** to show your support.
 *   **Join our [Discussions](https://github.com/orgs/zbelthas/discussions/1)** to ask questions or suggest features.
-*   **Donate:** Visit [zbelthas.com](https://zbelthas.com/donate) for more options and our Web3 portal.
+*   **Donate:** Visit [zbelthas.com](https://zbelthas.com/donate/) for more options and our Web3 portal.
 
 ---
 *© 2026 Zbelthas Project. Zbelthas™ is a registered trademark.*
