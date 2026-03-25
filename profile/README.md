@@ -14,8 +14,8 @@ Zbelthas is a complete digital security platform with three integrated modules: 
 ---
 
 ## 📖 Explore our Vision
-Check out our comprehensive **[Whitepaper Suite]((https://zbelthas.github.io/whitepaper/))** to understand our architecture, cryptographic foundations, and security layers.
-
+Check out our comprehensive **[Whitepaper Suite](https://zbelthas.github.io/whitepaper/)** to understand our architecture, cryptographic foundations, and security layers.
+Download our whitepaper **[Click here](
 > "Security is a partnership. We provide the strongest protection possible; you maintain the control."
 
 ---
